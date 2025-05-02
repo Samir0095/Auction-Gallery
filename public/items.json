@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Pocket Watch",
+      "description": "An antique silver pocket watch from the early 1900s in working condition.",
+      "currentBidPrice": 120.5,
+      "timeLeft": "2h 30m",
+      "bidsCount": 5,
+      "image": "../src/assets/pocket-watch.jpg",
+      "like": false
+    },
+    {
+      "id": 2,
+      "title": "Gaming Laptop",
+      "description": "High-performance laptop with RTX 3070 GPU, 16GB RAM, and 1TB SSD.",
+      "currentBidPrice": 950.0,
+      "timeLeft": "1d 4h",
+      "bidsCount": 12,
+      "image": "../src/assets/gamingLaptop.jpeg",
+      "like": false
+    },
+    {
+      "id": 3,
+      "title": "Electric Guitar",
+      "description": "A black Fender Stratocaster with case and accessories.",
+      "currentBidPrice": 340.75,
+      "timeLeft": "3h 15m",
+      "bidsCount": 8,
+      "image": "../src/assets/electricGuiter.jpeg",
+      "like": false
+    },
+    {
+      "id": 4,
+      "title": "Designer Handbag",
+      "description": "Luxury leather handbag from a premium fashion brand.",
+      "currentBidPrice": 610.0,
+      "timeLeft": "22h 10m",
+      "bidsCount": 15,
+      "image": "../src/assets/handBag.jpg",
+      "like": false
+    },
+    {
+      "id": 5,
+      "title": "LEGO Star Wars Set",
+      "description": "A rare LEGO Millennium Falcon set, unopened and in mint condition.",
+      "currentBidPrice": 275.99,
+      "timeLeft": "4d 6h",
+      "bidsCount": 22,
+      "image": "../src/assets/lefo.jpg",
+      "like": false
+    },
+    {
+      "id": 6,
+      "title": "Canon DSLR Camera",
+      "description": "Canon EOS 90D camera body with 18-135mm lens included.",
+      "currentBidPrice": 450.0,
+      "timeLeft": "16h 5m",
+      "bidsCount": 10,
+      "image": "../src/assets/camera.png",
+      "like": false
+    }
+  ]
+  
