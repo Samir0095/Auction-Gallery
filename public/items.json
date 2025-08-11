@@ -6,7 +6,7 @@
       "currentBidPrice": 120.5,
       "timeLeft": "2h 30m",
       "bidsCount": 5,
-      "image": "./src/assets/pocket-watch.jpg",
+      "image": "../src/assets/pocket-watch.jpg",
       "like": false
     },
     {
@@ -16,7 +16,7 @@
       "currentBidPrice": 950.0,
       "timeLeft": "1d 4h",
       "bidsCount": 12,
-      "image": "./src/assets/gamingLaptop.jpeg",
+      "image": "../src/assets/gamingLaptop.jpeg",
       "like": false
     },
     {
