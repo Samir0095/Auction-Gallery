@@ -6,7 +6,7 @@
       "currentBidPrice": 120.5,
       "timeLeft": "2h 30m",
       "bidsCount": 5,
-      "image": "../src/assets/pocket-watch.jpg",
+      "image": "src/assets/pocket-watch.jpg",
       "like": false
     },
     {
