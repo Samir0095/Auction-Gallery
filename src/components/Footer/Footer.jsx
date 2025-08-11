@@ -21,7 +21,7 @@ const Footer = () => {
     <p>Categories</p>
     <p>How to Works</p>
     </div>
-    <p>© {new Date().getFullYear()} AuctionHub. All right reserved</p>
+    <p>© {new Date().getFullYear()} AuctionHub. All rights reserved</p>
   </aside>
   <nav>
     <div className="grid grid-flow-col gap-4">
