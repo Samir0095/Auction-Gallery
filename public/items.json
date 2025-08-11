@@ -6,7 +6,7 @@
       "currentBidPrice": 120.5,
       "timeLeft": "2h 30m",
       "bidsCount": 5,
-      "image": "../src/assets/pocket-watch.jpg",
+      "image": "Images/pocket-watch.jpg",
       "like": false
     },
     {
@@ -16,7 +16,7 @@
       "currentBidPrice": 950.0,
       "timeLeft": "1d 4h",
       "bidsCount": 12,
-      "image": "../src/assets/gamingLaptop.jpeg",
+      "image": "Images/gamingLaptop.jpeg",
       "like": false
     },
     {
@@ -26,7 +26,7 @@
       "currentBidPrice": 340.75,
       "timeLeft": "3h 15m",
       "bidsCount": 8,
-      "image": "../src/assets/electricGuiter.jpeg",
+      "image": "Images/electricGuiter.jpeg",
       "like": false
     },
     {
@@ -36,7 +36,7 @@
       "currentBidPrice": 610.0,
       "timeLeft": "22h 10m",
       "bidsCount": 15,
-      "image": "../src/assets/handBag.jpg",
+      "image": "Images/handBag.jpg",
       "like": false
     },
     {
@@ -46,7 +46,7 @@
       "currentBidPrice": 275.99,
       "timeLeft": "4d 6h",
       "bidsCount": 22,
-      "image": "../src/assets/lefo.jpg",
+      "image": "Images/lefo.jpg",
       "like": false
     },
     {
@@ -56,7 +56,7 @@
       "currentBidPrice": 450.0,
       "timeLeft": "16h 5m",
       "bidsCount": 10,
-      "image": "../src/assets/camera.png",
+      "image": "Images/camera.png",
       "like": false
     }
   ]
